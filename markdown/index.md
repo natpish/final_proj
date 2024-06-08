@@ -1,6 +1,6 @@
 ---
 title: 'Cloud Driven Smart Energy Meter'
-author: '**Natalya Pishna and Saifedin Maani** (website template by Ryan Tsang)'
+author: ' **Natalya Pishna and Saifedin Maani** (website template by Ryan Tsang)'
 date: '*EEC172 SQ24*'
 
 toc-title: 'Table of Contents'
