@@ -1,22 +1,11 @@
 ---
 title: 'Cloud Driven Smart Energy Meter'
-author: ' **Natalya Pishna and Saifedin Maani** (website template by Ryan Tsang)'
+author: '**Natalya Pishna and Saifedin Maani** (website template by Ryan Tsang)'
 date: '*EEC172 SQ24*'
 
 toc-title: 'Table of Contents'
 abstract-title: '<h2>Description</h2>'
-abstract: 'Hydroponics is a technique where plants are grown in a nutrient-rich
-solution. This soil- free technique has been gaining traction recently
-due to its ability to optimize resource utilization. However, since
-plants are highly sensitive to changes in TDS, hydroponic setups require
-continuous TDS monitoring and adjustment. NutriSense, our device, allows
-hobbyists to achieve ideal hydroponics results on a small scale. It
-continuously monitors TDS and temperature, allowing the user to remotely
-read the status over AWS IoT cloud. The user can remotely enter upper
-and lower thresholds for TDS, and the device will automatically add
-nutrient solution or water to keep the TDS bounded by the thresholds.
-The device can also be configured to send notifications over SNS when
-the TDS value goes outside thresholds.
+abstract: 'Our innovative Smart Power Meter is designed to transform how home energy consumption is managed and monitored. This Smart Power Meter conducts real-time power measurements for household appliances, and controls power utilization with reliable relays. The primary advantage of this design is to provide users with actionable insights into their energy use, through informed monitoring of local rates and consumption daily, using our Cloud service. This is the standout feature of this smart meter powered by AWS Cloud SNS communication, which can also send immediate notifications during power outages and alerts about peak hour rates to avoid high energy costs' 
 <br/><br/>
 Our source code can be found 
 <!-- replace this link -->
