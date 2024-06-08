@@ -9,7 +9,7 @@ abstract: 'Our innovative Smart Power Meter is designed to transform how home en
 <br/><br/>
 Our source code can be found 
 <!-- replace this link -->
-<a href="https://github.com/ucd-eec172/project-website-example">
+<a href="https://github.com/natpish/final_proj_src_code">
   here (placeholder)</a>.
 
 <div style="display:flex;flex-wrap:wrap;justify-content:space-evenly;padding-top:20px">
