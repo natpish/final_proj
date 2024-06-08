@@ -31,9 +31,6 @@ Our source code can be found
 '
 ---
 
-<!-- EDIT METADATA ABOVE FOR CONTENTS TO APPEAR ABOVE THE TABLE OF CONTENTS -->
-<!-- ALL CONTENT THAT FOLLWOWS WILL APPEAR IN AND AFTER THE TABLE OF CONTENTS -->
-
 # Market Survey
 
 There are two types of similar product on the market. The first one is
