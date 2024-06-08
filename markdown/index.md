@@ -5,7 +5,7 @@ date: '*EEC172 SQ24*'
 
 toc-title: 'Table of Contents'
 abstract-title: '<h2>Description</h2>'
-abstract: 'Our innovative Smart Power Meter is designed to transform how home energy consumption is managed and monitored. This Smart Power Meter conducts real-time power measurements for household appliances, and controls power utilization with reliable relays. The primary advantage of this design is to provide users with actionable insights into their energy use, through informed monitoring of local rates and consumption daily, using our Cloud service. This is the standout feature of this smart meter powered by AWS Cloud SNS communication, which can also send immediate notifications during power outages and alerts about peak hour rates to avoid high energy costs' 
+abstract: '<Our innovative Smart Power Meter is designed to transform how home energy consumption is managed and monitored. This Smart Power Meter conducts real-time power measurements for household appliances, and controls power utilization with reliable relays. The primary advantage of this design is to provide users with actionable insights into their energy use, through informed monitoring of local rates and consumption daily, using our Cloud service. This is the standout feature of this smart meter powered by AWS Cloud SNS communication, which can also send immediate notifications during power outages and alerts about peak hour rates to avoid high energy costs>' 
 <br/><br/>
 Our source code can be found 
 <!-- replace this link -->
